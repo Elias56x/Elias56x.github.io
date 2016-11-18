@@ -24,7 +24,7 @@ Some of the techniques I used were variables, darken function for hover links, a
 
 2. Cons: Code is harder to debug, increased building time, greater complexity.
 
-###What do you think of static site generators?
+### What do you think of static site generators?
 
 Static site generators seems to be a great way to build simple websites. 
 
@@ -32,25 +32,25 @@ Static site generators seems to be a great way to build simple websites.
 
 Projects which do not require any user input or realtime content, such as a campaign site or a blog. 
 
-###What is robots.txt and how have you configure it for your site?
+### What is robots.txt and how have you configure it for your site?
 
 Robots.txt is a way for web robots to read the instructions on a website concerning which paths it should not visit.
 
 I have configured my robots.txt file to exclude all robots from the entire server.
 
-###What is humans.txt and how have you configure it for your site?
+### What is humans.txt and how have you configure it for your site?
 
 Humans.txt is a way for humans to read information about the people who have created the website and additional information about the website, such as the last update and or software used.
 
 I have configured my humans.txt to include my name, twitter username, place of residence and last update information.
 
-####How did you implements comments to blog posts?
+#### How did you implements comments to blog posts?
 
 I've implemented comments to my blog posts through the use of Disqus by following their Jekyll install instructions.
 
 You add 'comments:true' to the YAML Front Matter and place the Disqus Universal Embed Code between the "if page.comments" tag.
 
-####What is Open Graph and how do you make use of it?
+#### What is Open Graph and how do you make use of it?
 
 Open Graph allows your web page to become a rich object in a social graph. I've made use of Open Graph by implementing
 
