@@ -1,0 +1,14 @@
+# Site settings
+title: Elias Farhat
+email: Elias-Farhat@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Site created for the course Klientbaserad webbprogrammering.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  Elias56x
+occupation: Student
+home: Home
+
+# Build settings
+markdown: kramdown
