@@ -6,13 +6,13 @@ categories: assignment
 comments: true
 ---
 
-### What do you think of pre-compiling your CSS?
+### What do you think of pre-compiling your CSS? 
 
 Using a CSS preprocessor for my CSS felt like a refreshing way to create the style for this website.
 
 * Compare to regular CSS
 
-Compared to regular old CSS pre-complied CSS allows you to make calculated measurements in your CSS, the use of variables, and gives you a clear and organized way to write your CSS through techniques such as mixin and nesting.  
+Compared to regular CSS pre-complied CSS allows you to make calculated measurements in your CSS, the use of variables, and gives you a clear and organized way to write your CSS through techniques such as mixin and nesting.  
 
 * Which techniques did you use?
 
