@@ -6,7 +6,7 @@ categories: assignment
 comments: true
 ---
 
-###What do you think of pre-compiling your CSS?
+### What do you think of pre-compiling your CSS?
 
 Using a CSS preprocessor for my CSS felt like a refreshing way to create the style for this website.
 
